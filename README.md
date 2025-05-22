@@ -1,96 +1,65 @@
-# Project Metadata Scraper
+# Lovable Projects Analysis
 
-This script enhances the existing project dataset by scraping additional metadata from each project URL.
+This project analyzes projects from Lovable.dev to identify factors that contribute to project popularity and success. It includes data processing, machine learning analysis, and a Streamlit app for visualizing the results.
+
+## Project Structure
+
+- `enriched_data/` - Contains the enriched project data in JSON format
+- `analysis_results/` - Contains visualizations and analysis results
+- `build_model.py` - Script to build the predictive model and perform analysis
+- `generate_report.py` - Script to generate the HTML report
+- `report_app.py` - Streamlit app to display the analysis results
+- `requirements.txt` - Required packages for running the app
 
 ## Features
 
-- Scrapes detailed metadata from each project URL, including:
-  - Page title and description
-  - Detailed project descriptions
-  - Technology stack information
-  - Author details
-  - GitHub and demo links
-  - Tags, features, and additional links
-- Adds this information to the original dataset
-- Creates a new enriched JSON file with the added metadata
-- Support for resuming interrupted scraping sessions
-- Ability to update existing metadata
+- **Project Category Analysis**: Identifies the most common and most popular project categories
+- **Feature Correlation Analysis**: Determines which features correlate with project popularity
+- **Predictive Modeling**: Uses machine learning to predict project success based on various features
+- **Interactive Visualization**: Streamlit app with sections for different parts of the analysis
 
-## Requirements
+## Setup and Running Locally
 
-- Python 3.7+
-- Required packages: requests, beautifulsoup4, lxml
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the analysis: `python build_model.py`
+4. Generate the report: `python generate_report.py`
+5. Launch the Streamlit app: `streamlit run report_app.py`
 
-## Installation
+## Deployment to Streamlit Cloud
 
-1. Install the required packages:
+This app is configured to run on Streamlit Cloud. To deploy:
 
-```bash
-pip install -r requirements.txt
-```
+1. Push the repository to GitHub
+2. Visit [Streamlit Cloud](https://streamlit.io/cloud)
+3. Create a new app by connecting to your GitHub repository
+4. Set the main file path to `report_app.py`
+5. The app will automatically deploy with the specified dependencies in `requirements.txt`
 
-## Usage
+## Data Sources
 
-Basic usage:
+The data used in this analysis comes from Lovable.dev projects, including:
 
-```bash
-python scrape_project_metadata.py
-```
+- Project metadata (title, description, etc.)
+- Remix counts
+- Image analysis (brightness, aspect ratio, text presence)
+- Text features (sentiment analysis, word count, etc.)
+- Project categories
 
-Advanced options:
+## Insights
 
-```bash
-python scrape_project_metadata.py --input input_file.json --output output_file.json --update --start 10 --limit 5 --delay 3
-```
+The analysis reveals several key insights:
 
-### Command-line Arguments
+- Project popularity follows a power law distribution
+- Certain categories perform better than others
+- Visual elements significantly impact project success
+- Multiple factors contribute to project popularity
+- Feature combinations can amplify success beyond individual features
 
-| Argument | Default | Description |
-|----------|---------|-------------|
-| `--input` | enriched_data/enriched_projects.json | Path to the input JSON file |
-| `--output` | enriched_data/enriched_projects_with_metadata.json | Path to the output JSON file |
-| `--update` | False | Update existing metadata if output file already exists |
-| `--start` | 0 | Start processing from this index |
-| `--limit` | None | Process only this many projects |
-| `--delay` | 2 | Base delay between requests in seconds |
+## Author
 
-### Examples
+This project was created to analyze and visualize factors contributing to project success on Lovable.dev.
 
-Resume a previously interrupted session:
-```bash
-python scrape_project_metadata.py --start 20
-```
+## License
 
-Update only the first 5 projects:
-```bash
-python scrape_project_metadata.py --limit 5 --update
-```
-
-## Metadata Structure
-
-The script adds a new `scraped_metadata` field to each project with the following structure:
-
-```json
-"scraped_metadata": {
-  "page_title": "The page title from the HTML",
-  "description": "The meta description from the page",
-  "detailed_description": "A more detailed project description extracted from the page content",
-  "tech_stack": ["Technology 1", "Technology 2", ...],
-  "author_name": "Name of the project author",
-  "author_info": "Link or additional info about the author",
-  "last_updated": "Last updated date if available",
-  "additional_links": ["URL 1", "URL 2", ...],
-  "github_link": "Link to GitHub repository if available",
-  "demo_link": "Link to live demo if available",
-  "tags": ["Tag 1", "Tag 2", ...],
-  "features": ["Feature 1", "Feature 2", ...],
-  "scrape_timestamp": "ISO timestamp of when the scraping was performed"
-}
-```
-
-## Notes
-
-- The script includes exponential backoff delays between requests to avoid rate limiting
-- Error handling ensures the script doesn't crash if some URLs fail
-- Progress is automatically saved every 10 processed projects
-- If interrupted, you can resume from where you left off using the `--start` parameter 
+MIT
