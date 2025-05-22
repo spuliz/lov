@@ -1,0 +1,31 @@
+{
+  "total_projects": 1,
+  "total_remixes": 35,
+  "average_remixes_per_project": 35.0,
+  "unique_titles": 1,
+  "top_remixed_projects": [
+    {
+      "id": "c97c0a8e-4d68-4bc4-9fe0-c26ee71c3856",
+      "title": "fancy-saas-splash",
+      "remixes": 35
+    }
+  ],
+  "title_frequency": {
+    "unique_titles_count": 1,
+    "most_common_titles": [
+      {
+        "title": "fancy-saas-splash",
+        "count": 1
+      }
+    ]
+  },
+  "tag_analysis": {
+    "tag_categories": {},
+    "website_tag": {
+      "count": 0,
+      "percentage": 0.0,
+      "avg_remixes": 0,
+      "top_projects": []
+    }
+  }
+}

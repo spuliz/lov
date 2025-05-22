@@ -1,0 +1,41 @@
+{
+  "counts": {
+    "ai_tool": 9,
+    "dashboard": 7,
+    "landing_page": 4,
+    "booking": 3,
+    "B2B_SaaS": 2,
+    "tool": 2,
+    "other": 2,
+    "marketplace": 1,
+    "game": 1,
+    "directory": 1
+  },
+  "avg_remixes": {
+    "ai_tool": 761.2222222222222,
+    "landing_page": 569.0,
+    "booking": 559.0,
+    "dashboard": 451.0,
+    "tool": 127.5,
+    "directory": 53.0,
+    "game": 52.0,
+    "other": 51.0,
+    "marketplace": 48.0,
+    "B2B_SaaS": 24.5
+  },
+  "median_remixes": {
+    "booking": 649.0,
+    "ai_tool": 580.0,
+    "landing_page": 575.0,
+    "tool": 127.5,
+    "dashboard": 91.0,
+    "directory": 53.0,
+    "game": 52.0,
+    "other": 51.0,
+    "marketplace": 48.0,
+    "B2B_SaaS": 24.5
+  },
+  "total_categories": 10,
+  "most_common_category": "ai_tool",
+  "most_popular_category": "ai_tool"
+}

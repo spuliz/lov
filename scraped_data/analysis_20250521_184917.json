@@ -1,0 +1,58 @@
+{
+  "total_projects": 32,
+  "total_remixes": 14520,
+  "average_remixes_per_project": 453.75,
+  "unique_titles": 32,
+  "top_remixed_projects": [
+    {
+      "id": "ec1d4f1e-2506-4da5-a91b-34afa90cceb6",
+      "title": "wrlds-ai-integration",
+      "remixes": 2354
+    },
+    {
+      "id": "721b7097-37cd-4dc4-8946-0910b3ea8bc7",
+      "title": "agri-dom",
+      "remixes": 1996
+    },
+    {
+      "id": "fafe259a-ff46-45f0-812e-1c598bf4b505",
+      "title": "characterforge-imagix",
+      "remixes": 1695
+    },
+    {
+      "id": "513db1a2-0fcc-4643-bd43-f10d076dfa80",
+      "title": "cortex-second-brain",
+      "remixes": 1438
+    },
+    {
+      "id": "f34e3a91-e821-4705-9e65-257dcf59254e",
+      "title": "orangery-ventures-harmony",
+      "remixes": 1117
+    }
+  ],
+  "title_frequency": {
+    "unique_titles_count": 32,
+    "most_common_titles": [
+      {
+        "title": "fancy-saas-splash",
+        "count": 1
+      },
+      {
+        "title": "valk-life",
+        "count": 1
+      },
+      {
+        "title": "monster-landing-magic",
+        "count": 1
+      },
+      {
+        "title": "future-real-estate-site",
+        "count": 1
+      },
+      {
+        "title": "turn-based-chess-duel",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "title": "Lovable",
+  "meta_description": "Build software products, using only a chat interface",
+  "main_content": [
+    "Build somethingLovable",
+    "Idea to app in seconds, with your personal full stack engineer",
+    "Social media dashboard",
+    "Crypto portfolio tracker",
+    "SaaS landing page",
+    "PDF viewer",
+    "From the Community"
+  ],
+  "navigation": [
+    "",
+    "Log in",
+    "Sign up"
+  ],
+  "links": [
+    "https://lovable.dev/",
+    "https://lovable.dev/login",
+    "https://lovable.dev/signup",
+    "https://lovable.dev/projects/featured",
+    "https://lovable.dev/",
+    "https://lovable.dev/blog",
+    "https://lovable.dev/careers",
+    "https://feedback.lovable.dev/",
+    "https://status.lovable.dev/",
+    "https://docs.lovable.dev/changelog",
+    "https://lovable.dev/pricing",
+    "https://lovable.dev/solutions",
+    "https://lovable.dev/partners",
+    "https://lovable.dev/partners/apply",
+    "https://launched.lovable.dev/",
+    "https://lovable.dev/enterprise",
+    "https://docs.lovable.dev",
+    "https://lovable.dev/support",
+    "https://docs.lovable.dev/integrations/introduction",
+    "https://lovable.dev/affiliates",
+    "https://lovable.dev/brand",
+    "https://lovable.dev/privacy",
+    "https://lovable.dev/terms",
+    "https://lovable.dev/abuse",
+    "https://twitter.com/lovable_dev",
+    "https://www.linkedin.com/company/lovable-dev/",
+    "https://discord.gg/ha3wjN44dS",
+    "https://reddit.com/r/lovable"
+  ],
+  "api_endpoints": [
+    "https://identity.netlify.com/v1/netlify-identity-widget.js\\",
+    "https://identity.netlify.com/v1/netlify-identity-widget.js"
+  ],
+  "scripts": [
+    "/_next/static/chunks/52774a7f-eec6d7351543a2d0.js",
+    "/_next/static/chunks/fd9d1056-51d261095498103e.js",
+    "/_next/static/chunks/717-45c05458a285acb3.js",
+    "/_next/static/chunks/main-app-cef35d5261187bff.js",
+    "/_next/static/chunks/bc9e92e6-37639af15467ebb6.js",
+    "/_next/static/chunks/457b8330-6f03601e48556969.js",
+    "/_next/static/chunks/ac7cbee4-ab489fde2ed96505.js",
+    "/_next/static/chunks/9da6db1e-e36ef3aae09ea22b.js",
+    "/_next/static/chunks/0e5ce63c-d647d4996702aba4.js",
+    "/_next/static/chunks/8452-238fd9571e3ccc97.js",
+    "/_next/static/chunks/6693-b1ea835d4f290065.js",
+    "/_next/static/chunks/2972-c8c5782c2453bd4a.js",
+    "/_next/static/chunks/4240-c2ef20a1232bb410.js",
+    "/_next/static/chunks/6348-11ed132e7879ad65.js",
+    "/_next/static/chunks/6732-9e7b50f305c462e3.js",
+    "/_next/static/chunks/4438-d5dfd7957345255d.js",
+    "/_next/static/chunks/441-a06f5cc95774f93e.js",
+    "/_next/static/chunks/9291-00f35b2e8457dcff.js",
+    "/_next/static/chunks/3464-799c7cefb33981c2.js",
+    "/_next/static/chunks/6593-670fedb9dcc7c66c.js",
+    "/_next/static/chunks/1229-307ee41075d4e9f9.js",
+    "/_next/static/chunks/9899-61e4f9f197f67ddd.js",
+    "/_next/static/chunks/3909-318e279c70fc2f4f.js",
+    "/_next/static/chunks/8173-abfd681776a299f0.js",
+    "/_next/static/chunks/1312-64fe326cbe20b94e.js",
+    "/_next/static/chunks/1958-6e8b72a9a55bd573.js",
+    "/_next/static/chunks/4728-e4a73da0bb511059.js",
+    "/_next/static/chunks/8793-1f135e10b39737ad.js",
+    "/_next/static/chunks/486-bf997d30a7a51c1d.js",
+    "/_next/static/chunks/8153-666b1141060e9eab.js",
+    "/_next/static/chunks/3590-2130920e538cb662.js",
+    "/_next/static/chunks/1188-7ef46041a327e434.js",
+    "/_next/static/chunks/4747-c5d9eddada307ed9.js",
+    "/_next/static/chunks/5460-ddc2c5ad9a23a5a2.js",
+    "/_next/static/chunks/9428-8af6581352dbece2.js",
+    "/_next/static/chunks/9131-051d45b40ed729fc.js",
+    "/_next/static/chunks/1823-4051ed21932e8857.js",
+    "/_next/static/chunks/986-331cd880b345da52.js",
+    "/_next/static/chunks/5777-4dd715523ca5d4be.js",
+    "/_next/static/chunks/5202-b5960c74cb684970.js",
+    "/_next/static/chunks/2124-7855ff19636e9eeb.js",
+    "/_next/static/chunks/6419-9f28d7f323447119.js",
+    "/_next/static/chunks/7222-d09f72d66a3b2dfb.js",
+    "/_next/static/chunks/5990-a9fae858944869d9.js",
+    "/_next/static/chunks/app/(HomeLayout)/layout-afa65f350505e78d.js",
+    "/_next/static/chunks/app/(MainLayout)/layout-f6339d0a060ae7c4.js",
+    "/_next/static/chunks/5598-eb4c9dfb4a9fa881.js",
+    "/_next/static/chunks/6853-4079ea3ceb6ddac2.js",
+    "/_next/static/chunks/1901-e4dc49ffad61e2d3.js",
+    "/_next/static/chunks/376-66612de4bd093229.js",
+    "/_next/static/chunks/app/(HomeLayout)/page-f3e7bf2738191e27.js",
+    "/_next/static/chunks/8663-1346fce70491bad6.js",
+    "/_next/static/chunks/app/layout-f3d2eb4d262c33aa.js",
+    "/_next/static/chunks/app/error-748f5c1d6e60dca2.js",
+    "inline script",
+    "inline script",
+    "inline script",
+    "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "inline script",
+    "/_next/static/chunks/webpack-6fd7b03ab010aef2.js",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "inline script",
+    "/.netlify/scripts/rum"
+  ],
+  "project_containers": [
+    {
+      "class": [
+        "container-home",
+        "flex",
+        "h-16",
+        "w-full",
+        "items-center",
+        "justify-between"
+      ],
+      "id": null,
+      "content_preview": "Log inSign up"
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "gap-8",
+        "md:pl-8"
+      ],
+      "id": null,
+      "content_preview": ""
+    },
+    {
+      "class": [
+        "flex",
+        "items-center",
+        "gap-4",
+        "md:pr-8"
+      ],
+      "id": null,
+      "content_preview": "Log inSign up"
+    },
+    {
+      "class": [
+        "mb-[20px]",
+        "flex",
+        "min-h-[420px]",
+        "w-full",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "md:mb-[0px]",
+        "md:min-h-[600px]"
+      ],
+      "id": null,
+      "content_preview": "Build somethingLovableIdea to app in seconds, with your personal full stack engineerAttachPublicSoci"
+    },
+    {
+      "class": [
+        "mb-2",
+        "mt-5",
+        "flex",
+        "flex-col",
+        "items-center",
+        "px-4",
+        "text-center",
+        "md:mb-4",
+        "md:mt-10"
+      ],
+      "id": null,
+      "content_preview": "Build somethingLovableIdea to app in seconds, with your personal full stack engineer"
+    },
+    {
+      "class": [
+        "mb-4",
+        "flex",
+        "w-full",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-2"
+      ],
+      "id": null,
+      "content_preview": ""
+    },
+    {
+      "class": [
+        "flex",
+        "w-full",
+        "flex-col",
+        "items-center",
+        "px-4"
+      ],
+      "id": null,
+      "content_preview": "AttachPublicSocial media dashboardCrypto portfolio trackerSaaS landing pagePDF viewer"
+    },
+    {
+      "class": [
+        "relative",
+        "flex",
+        "items-center"
+      ],
+      "id": null,
+      "content_preview": ""
+    },
+    {
+      "class": [
+        "flex",
+        "gap-1",
+        "h-[27px]",
+        "flex-wrap",
+        "items-center",
+        "pl-0.5"
+      ],
+      "id": null,
+      "content_preview": "AttachPublic"
+    },
+    {
+      "class": [
+        "flex",
+        "flex-grow",
+        "items-center",
+        "justify-end",
+        "gap-2"
+      ],
+      "id": null,
+      "content_preview": "Public"
+    },
+    {
+      "class": [
+        "flex",
+        "w-full",
+        "items-center",
+        "justify-between"
+      ],
+      "id": null,
+      "content_preview": "From the CommunityView All"
+    },
+    {
+      "class": [
+        "col-span-full",
+        "mb-16",
+        "flex",
+        "flex-col",
+        "max-sm:items-center",
+        "sm:col-span-1",
+        "sm:mb-0"
+      ],
+      "id": null,
+      "content_preview": ""
+    }
+  ]
+}

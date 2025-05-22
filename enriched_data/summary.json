@@ -1,0 +1,47 @@
+{
+  "total_projects": 32,
+  "total_remixes": 14520,
+  "avg_remixes_per_project": 453.75,
+  "categories": {
+    "landing_page": 3,
+    "other": 16,
+    "game": 1,
+    "ai_tool": 7,
+    "dashboard": 1,
+    "crm": 1,
+    "utility": 1,
+    "e-commerce": 1,
+    "social_media": 1
+  },
+  "sentiment_analysis": {
+    "avg_polarity": 0.05,
+    "avg_subjectivity": 0.081640625
+  },
+  "top_projects_by_popularity": [
+    {
+      "id": "ec1d4f1e-2506-4da5-a91b-34afa90cceb6",
+      "title": "wrlds-ai-integration",
+      "popularity": 11770
+    },
+    {
+      "id": "721b7097-37cd-4dc4-8946-0910b3ea8bc7",
+      "title": "agri-dom",
+      "popularity": 9980
+    },
+    {
+      "id": "fafe259a-ff46-45f0-812e-1c598bf4b505",
+      "title": "characterforge-imagix",
+      "popularity": 8475
+    },
+    {
+      "id": "513db1a2-0fcc-4643-bd43-f10d076dfa80",
+      "title": "cortex-second-brain",
+      "popularity": 7190
+    },
+    {
+      "id": "f34e3a91-e821-4705-9e65-257dcf59254e",
+      "title": "orangery-ventures-harmony",
+      "popularity": 5585
+    }
+  ]
+}

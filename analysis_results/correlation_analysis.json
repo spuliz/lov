@@ -1,0 +1,18 @@
+{
+  "top_positive_correlations": {
+    "text_image_title_ratio": 0.18343422900703624,
+    "image_has_text": 0.16971501986047594,
+    "author_image_text_interaction": 0.16971501986047594,
+    "high_subjectivity": 0.08692391691221575,
+    "image_analysis.dimensions.height": 0.07702678141855956
+  },
+  "top_negative_correlations": {
+    "text_features.word_count": -0.17389770343077332,
+    "word_count": -0.17389770343077332,
+    "dark_image": -0.15791306178974998,
+    "sentiment_polarity": -0.10565119748533829,
+    "text_features.sentiment.polarity": -0.10565119748533829
+  },
+  "author_img_correlation": -0.03671948894553964,
+  "author_img_text_interaction_correlation": 0.16971501986047594
+}

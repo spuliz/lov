@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "c97c0a8e-4d68-4bc4-9fe0-c26ee71c3856",
+    "title": "fancy-saas-splash",
+    "description": "A modern landing page template for SaaS products featuring sleek design elements and engaging visual splash effects.",
+    "link": "https://lovable.dev/projects/c97c0a8e-4d68-4bc4-9fe0-c26ee71c3856",
+    "remixes": {
+      "count": 35,
+      "text": "35 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-87a5dd0d--c97c0a8e-4d68-4bc4-9fe0-c26ee71c3856.gptengineer.run-1722459731776.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocKpsvmGNG_xDhdfPBXd9FoTu6GlwFf5qo0nWNTzjNgxexLb0w=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.306404",
+    "full_description": "",
+    "technologies": [],
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1979,
+        "aspect_ratio": 0.9701869631126832
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#f4f0f7",
+          "#242c3c",
+          "#a35cea"
+        ],
+        "brightness": 183.41823285118747,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "fancy",
+        "saas",
+        "splash"
+      ],
+      "project_category": "landing_page"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 175
+  },
+  {
+    "id": "65e44bd6-84d0-4f67-a532-c7f2a71f7d46",
+    "title": "valk-life",
+    "description": "A lifestyle application or website dedicated to Nordic-inspired living, possibly featuring minimalist design and wellness content.",
+    "link": "https://lovable.dev/projects/65e44bd6-84d0-4f67-a532-c7f2a71f7d46",
+    "remixes": {
+      "count": 40,
+      "text": "40 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-95f68f71--65e44bd6-84d0-4f67-a532-c7f2a71f7d46.gptengineer.run-1724326675931.png",
+    "author_img": "https://avatars.githubusercontent.com/u/4411977?v=4",
+    "scraped_at": "2025-05-21T18:49:16.337169",
+    "full_description": "",
+    "technologies": [],
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 2935,
+        "aspect_ratio": 0.6541737649063032
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#2f3137",
+          "#f4f5f7",
+          "#8f928c"
+        ],
+        "brightness": 196.0228184891397,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "valk",
+        "life"
+      ],
+      "project_category": "booking"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 200
+  },
+  {
+    "id": "6fb25ca9-773a-4499-aa1a-2c5df274248d",
+    "title": "monster-landing-magic",
+    "description": "An eye-catching landing page template with bold graphics and animations designed to create a magical first impression.",
+    "link": "https://lovable.dev/projects/6fb25ca9-773a-4499-aa1a-2c5df274248d",
+    "remixes": {
+      "count": 47,
+      "text": "47 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-7c51c4d7--6fb25ca9-773a-4499-aa1a-2c5df274248d.gptengineer.run-1722268450917.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocKpsvmGNG_xDhdfPBXd9FoTu6GlwFf5qo0nWNTzjNgxexLb0w=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.388370",
+    "full_description": "",
+    "technologies": [],
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 2655,
+        "aspect_ratio": 0.7231638418079096
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#4c2b87",
+          "#785ba3",
+          "#212a39"
+        ],
+        "brightness": 126.0387537272442,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.5,
+        "subjectivity": 1.0
+      },
+      "keywords": [
+        "monster",
+        "landing",
+        "magic"
+      ],
+      "project_category": "B2B_SaaS"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 235
+  },
+  {
+    "id": "156c4586-27b3-4c80-992f-6996d77bfbc1",
+    "title": "future-real-estate-site",
+    "description": "A forward-thinking real estate platform showcasing properties with innovative visualization tools and modern interface.",
+    "link": "https://lovable.dev/projects/156c4586-27b3-4c80-992f-6996d77bfbc1",
+    "remixes": {
+      "count": 48,
+      "text": "48 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-0372773b--156c4586-27b3-4c80-992f-6996d77bfbc1.gptengineer.run-1720384141356.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocKBv6ChVTQgL5brL_jvJ1Fbxo7Ig0C7daSZ7FeIx9zysAQg0lk=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.422113",
+    "full_description": "",
+    "technologies": [],
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 2126,
+        "aspect_ratio": 0.90310442144873
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#707576",
+          "#1e1e1e",
+          "#bdc1c1"
+        ],
+        "brightness": 111.40048316723502,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 4,
+      "sentiment": {
+        "polarity": 0.1,
+        "subjectivity": 0.21250000000000002
+      },
+      "keywords": [
+        "future",
+        "real",
+        "estate",
+        "site"
+      ],
+      "project_category": "marketplace"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 240
+  },
+  {
+    "id": "f60ff3fb-aac0-4b5b-a359-c84636b03332",
+    "title": "turn-based-chess-duel",
+    "description": "An interactive chess game application featuring turn-based gameplay and competitive dueling mechanics.",
+    "link": "https://lovable.dev/projects/f60ff3fb-aac0-4b5b-a359-c84636b03332",
+    "remixes": {
+      "count": 52,
+      "text": "52 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-ac75a291--f60ff3fb-aac0-4b5b-a359-c84636b03332.gptengineer.run-1722862328318.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJgj-yluTl4FfbF6GJqLQo4HKIZr5ZsaHgHX1KsgaEdWqyYaVZXAQ=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.456430",
+    "full_description": "",
+    "technologies": [],
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#282c3b",
+          "#14181f",
+          "#24507f"
+        ],
+        "brightness": 85.66586214795525,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 4,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "turn",
+        "based",
+        "chess",
+        "duel"
+      ],
+      "project_category": "game"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 260
+  },
+  {
+    "id": "f6f0a2d7-0b30-4d2c-9290-e18ae9e1fd05",
+    "title": "musicwave-harmony",
+    "description": "A music visualization and playback app that creates harmonious visual representations of audio waveforms.",
+    "link": "https://lovable.dev/projects/f6f0a2d7-0b30-4d2c-9290-e18ae9e1fd05",
+    "remixes": {
+      "count": 53,
+      "text": "53 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-c71421b9--f6f0a2d7-0b30-4d2c-9290-e18ae9e1fd05.gptengineer.run-1724965040050.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocLeMkZMIN3gFvlIFdzTAlYte5k5yMf-pX3F_Va7TrmsfYSThA=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.487891",
+    "full_description": "",
+    "technologies": [],
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#0a0c12",
+          "#498dc0",
+          "#e9706c"
+        ],
+        "brightness": 112.04976779513889,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "musicwave",
+        "harmony"
+      ],
+      "project_category": "directory"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 265
+  },
+  {
+    "id": "0fa655bd-55f5-4761-af2c-39b0bfabbaae",
+    "title": "ai-tool-hub",
+    "description": "A centralized platform that aggregates and organizes various AI tools and services for easy discovery and implementation.",
+    "link": "https://lovable.dev/projects/0fa655bd-55f5-4761-af2c-39b0bfabbaae",
+    "remixes": {
+      "count": 71,
+      "text": "71 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-2190ae34--0fa655bd-55f5-4761-af2c-39b0bfabbaae.gptengineer.run-1722657746434.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocK1gSuUuoMGKGYO7qDKGw0o2_PgO0cVulzjPeXC3z6UnqusyyI=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.521670",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1864,
+        "aspect_ratio": 1.0300429184549356
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#16212d",
+          "#a8bbb6",
+          "#2d4857"
+        ],
+        "brightness": 96.17016182436963,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "tool",
+        "hub"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 355
+  },
+  {
+    "id": "4e4f8fa9-169c-4762-b885-56ac83b4ade3",
+    "title": "chatgpt-clone",
+    "description": "A replica of the ChatGPT interface and functionality, allowing users to interact with an AI assistant.",
+    "link": "https://lovable.dev/projects/4e4f8fa9-169c-4762-b885-56ac83b4ade3",
+    "remixes": {
+      "count": 68,
+      "text": "68 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-8df5f17f--4e4f8fa9-169c-4762-b885-56ac83b4ade3.gptengineer.run-1724767365614.png",
+    "author_img": "https://avatars.githubusercontent.com/u/5621667?v=4",
+    "scraped_at": "2025-05-21T18:49:16.551284",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#7192f9",
+          "#9568f6",
+          "#e6e6fc"
+        ],
+        "brightness": 191.18987449363425,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "chatgpt",
+        "clone"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 340
+  },
+  {
+    "id": "b8ce5f67-1b0f-4932-a684-e51855e29de9",
+    "title": "hungry-dashboard",
+    "description": "A food tracking and nutrition analytics dashboard that visualizes eating habits and dietary information.",
+    "link": "https://lovable.dev/projects/b8ce5f67-1b0f-4932-a684-e51855e29de9",
+    "remixes": {
+      "count": 91,
+      "text": "91 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-a76619ba--b8ce5f67-1b0f-4932-a684-e51855e29de9.lovable.app-1745845181038.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocLnWqv9MY5g5i-GH0B5GNVgBDKVOjAEjHOy1kp2u-dsti5F3vRR=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.591603",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#e1d7cc",
+          "#6b5f59",
+          "#a98e77"
+        ],
+        "brightness": 155.72409167631173,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "hungry",
+        "dashboard"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 455
+  },
+  {
+    "id": "721b7097-37cd-4dc4-8946-0910b3ea8bc7",
+    "title": "agri-dom",
+    "description": "An agricultural domain management system for farmers to monitor crops, track resources, and optimize farming operations.",
+    "link": "https://lovable.dev/projects/721b7097-37cd-4dc4-8946-0910b3ea8bc7",
+    "remixes": {
+      "count": 1996,
+      "text": "1996 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/85c2e402-9dc2-4acf-b5b2-3d53f3c5964f/id-preview-0a1eec3c--721b7097-37cd-4dc4-8946-0910b3ea8bc7.lovable.app-1744802981071.png",
+    "author_img": "",
+    "scraped_at": "2025-05-21T18:49:16.642909",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#fafbfc",
+          "#80a983",
+          "#d3d9d8"
+        ],
+        "brightness": 249.8685996576003,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "agri",
+        "dom"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 9980
+  },
+  {
+    "id": "4895dbd0-4609-4ca0-9728-8cee578eee22",
+    "title": "psk-services",
+    "description": "A professional service provider platform offering specialized consulting or technical services.",
+    "link": "https://lovable.dev/projects/4895dbd0-4609-4ca0-9728-8cee578eee22",
+    "remixes": {
+      "count": 988,
+      "text": "988 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b5307845-18cf-4137-b221-9506717bbb38/id-preview-f35bf833--4895dbd0-4609-4ca0-9728-8cee578eee22.lovable.app-1747763496196.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJi-v23EytHgsQUNgL8mouqRrYRCAbTJik8ne10t1PXCkVJtwO2=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.676676",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#4c735d",
+          "#121212",
+          "#bcc8c3"
+        ],
+        "brightness": 83.50139793113426,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "psk",
+        "services"
+      ],
+      "project_category": "booking"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 4940
+  },
+  {
+    "id": "0a723aaf-fa4e-4c29-8841-7b9dfaf2611b",
+    "title": "tableone-fundraise-hub",
+    "description": "A fundraising platform specifically designed for restaurant entrepreneurs to connect with potential investors.",
+    "link": "https://lovable.dev/projects/0a723aaf-fa4e-4c29-8841-7b9dfaf2611b",
+    "remixes": {
+      "count": 2,
+      "text": "2 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b1d5fc5d-fb21-461d-85f8-e83c34d3f258/id-preview-3e2266e6--0a723aaf-fa4e-4c29-8841-7b9dfaf2611b.lovable.app-1747430493231.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocKIWQbKR6REzWNKPbEjQ_GZ4qUATSqQ4_4lHgM5vJb2NpNLAA=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.712573",
+    "screenshot_description": "A fundraising landing page for Tableone, a restaurant reservation platform. The page has a dark theme with the Tableone logo in the top-left corner and navigation options for 'Metrics,' 'Roadmap,' and 'Expansion.' The main headline reads 'Platinum Card Dining, WITHOUT The Card' with a tagline stating 'Raising from Our Community to Continue Redefining Restaurant Reservations.' The central visual displays a smartphone showing the Tableone app interface with restaurant listings, alongside credit card visuals. Two blue 'Invest via Wefunder' buttons appear at the top and bottom, with an additional 'See Our Metrics' button. The design conveys a premium dining experience that doesn't require special credit cards.",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#2e2d2e",
+          "#030206",
+          "#68608e"
+        ],
+        "brightness": 69.60381570698303,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "tableone",
+        "fundraise",
+        "hub"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 10
+  },
+  {
+    "id": "aa3f66a7-cf0f-41ac-99b0-6838871e6ffa",
+    "title": "trailguidecoihues",
+    "description": "An interactive trail guide application for the Coihues region, providing hiking routes and outdoor adventure information.",
+    "link": "https://lovable.dev/projects/aa3f66a7-cf0f-41ac-99b0-6838871e6ffa",
+    "remixes": {
+      "count": 642,
+      "text": "642 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/623ec066-c0bb-4c72-8b96-c9b8dc57c621/id-preview-66d87578--aa3f66a7-cf0f-41ac-99b0-6838871e6ffa.lovable.app-1747355774555.png",
+    "author_img": "",
+    "scraped_at": "2025-05-21T18:49:16.748129",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#e5f3fc",
+          "#485f6b",
+          "#9cb1bd"
+        ],
+        "brightness": 232.12372902199073,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 1,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "trailguidecoihues"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 3210
+  },
+  {
+    "id": "ec1d4f1e-2506-4da5-a91b-34afa90cceb6",
+    "title": "wrlds-ai-integration",
+    "description": "A system that integrates artificial intelligence capabilities into virtual or augmented reality environments.",
+    "link": "https://lovable.dev/projects/ec1d4f1e-2506-4da5-a91b-34afa90cceb6",
+    "remixes": {
+      "count": 2354,
+      "text": "2354 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b3fab970-4649-4f3b-ac86-c1a361bf5e6c/id-preview-d54d3cdf--ec1d4f1e-2506-4da5-a91b-34afa90cceb6.lovable.app-1747385331439.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJJWe9toj03NxOLPeGeLm3Py25i-oce5SLkzO6baUDlFQbslm0izA=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.786712",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#efefef",
+          "#050505",
+          "#777777"
+        ],
+        "brightness": 163.90591278452933,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "wrlds",
+        "integration"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 11770
+  },
+  {
+    "id": "e80b4e6f-f37e-4186-8826-02a6da11169d",
+    "title": "patrick-boghossian-ring-sizer",
+    "description": "A specialized tool for jewelry sizing, specifically for determining ring sizes accurately.",
+    "link": "https://lovable.dev/projects/e80b4e6f-f37e-4186-8826-02a6da11169d",
+    "remixes": {
+      "count": 254,
+      "text": "254 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/e6fc0b97-81f4-4cbd-8503-ebcafe78b4af/id-preview-48b3cb32--e80b4e6f-f37e-4186-8826-02a6da11169d.lovable.app-1746431394987.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJpJO1uPKe-337VYj8SKTvqWLr9aBFq4PFg5lTZUqJ_yFlPrTw=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.828363",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#efe8e1",
+          "#c3a498",
+          "#d9ccc4"
+        ],
+        "brightness": 237.58957899305557,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 4,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "patrick",
+        "boghossian",
+        "ring",
+        "sizer"
+      ],
+      "project_category": "tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 1270
+  },
+  {
+    "id": "4b043dc7-4365-4c96-b875-11bd9694b03e",
+    "title": "chef-cuistot-ia",
+    "description": "A culinary AI assistant that helps with recipes, cooking techniques, and meal planning in French cuisine.",
+    "link": "https://lovable.dev/projects/4b043dc7-4365-4c96-b875-11bd9694b03e",
+    "remixes": {
+      "count": 2,
+      "text": "2 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7421c5fe-fd00-490a-a2a1-f93333d9a279/id-preview-268be4c7--4b043dc7-4365-4c96-b875-11bd9694b03e.lovable.app-1746379497914.png",
+    "author_img": "",
+    "scraped_at": "2025-05-21T18:49:16.871858",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#d7dce9",
+          "#e6edf2",
+          "#678f8b"
+        ],
+        "brightness": 233.03506184895832,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "chef",
+        "cuistot"
+      ],
+      "project_category": "B2B_SaaS"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 10
+  },
+  {
+    "id": "15d22a8d-159c-4e5f-955c-69d700cd8ccd",
+    "title": "adventurous-resort-hub",
+    "description": "A booking and information platform for adventure resorts featuring outdoor activities and extreme sports.",
+    "link": "https://lovable.dev/projects/15d22a8d-159c-4e5f-955c-69d700cd8ccd",
+    "remixes": {
+      "count": 649,
+      "text": "649 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/347e3468-47e7-4c72-bb71-a99be8b92cf6/id-preview-a85fa4f5--15d22a8d-159c-4e5f-955c-69d700cd8ccd.lovable.app-1745682784587.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocKRzTyzoFT-ab_inLwBDz1ynjhUS8bvtvYSxYHzgtO7tc4w_RGR=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.902540",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#080907",
+          "#eef3f3",
+          "#6c8b75"
+        ],
+        "brightness": 83.37167534722222,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.5,
+        "subjectivity": 0.9
+      },
+      "keywords": [
+        "adventurous",
+        "resort",
+        "hub"
+      ],
+      "project_category": "booking"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 3245
+  },
+  {
+    "id": "f34e3a91-e821-4705-9e65-257dcf59254e",
+    "title": "orangery-ventures-harmony",
+    "description": "A venture capital portfolio dashboard focused on sustainable or botanical-themed investment opportunities.",
+    "link": "https://lovable.dev/projects/f34e3a91-e821-4705-9e65-257dcf59254e",
+    "remixes": {
+      "count": 1117,
+      "text": "1117 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/596423da-830b-4da4-968a-3463dde27917/id-preview-0fbe14bb--f34e3a91-e821-4705-9e65-257dcf59254e.lovable.app-1745302905767.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJzyeET5CBOEqxL9Ps8_wpE8BEKrgQM2zJNHyT8Zry5kzA6fSos5Q=s96-c",
+    "scraped_at": "2025-05-21T18:49:16.960652",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#26271f",
+          "#7c755e",
+          "#53503b"
+        ],
+        "brightness": 117.22010645736883,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "orangery",
+        "ventures",
+        "harmony"
+      ],
+      "project_category": "landing_page"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 5585
+  },
+  {
+    "id": "328de7c5-7688-4cf6-bc54-0daafe636b06",
+    "title": "webfront-duplication",
+    "description": "A tool that allows users to clone and replicate website frontends for testing or development purposes.",
+    "link": "https://lovable.dev/projects/328de7c5-7688-4cf6-bc54-0daafe636b06",
+    "remixes": {
+      "count": 580,
+      "text": "580 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-54062093--328de7c5-7688-4cf6-bc54-0daafe636b06.lovable.app-1741680039580.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJpJO1uPKe-337VYj8SKTvqWLr9aBFq4PFg5lTZUqJ_yFlPrTw=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.015756",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 2338,
+        "aspect_ratio": 0.8212147134302823
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#211d21",
+          "#0b090c",
+          "#ad5c84"
+        ],
+        "brightness": 77.64426064166311,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "webfront",
+        "duplication"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 2900
+  },
+  {
+    "id": "84322c50-98b7-4990-ba4e-2545accf5d91",
+    "title": "landing-simulator-sorcery",
+    "description": "A landing page creation tool with magical drag-and-drop functionality for building impressive site entrances.",
+    "link": "https://lovable.dev/projects/84322c50-98b7-4990-ba4e-2545accf5d91",
+    "remixes": {
+      "count": 1115,
+      "text": "1115 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-0383a15b--84322c50-98b7-4990-ba4e-2545accf5d91.lovable.app-1741678685243.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJpJO1uPKe-337VYj8SKTvqWLr9aBFq4PFg5lTZUqJ_yFlPrTw=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.049851",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1263,
+        "aspect_ratio": 1.520190023752969
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#2b2943",
+          "#5e4692",
+          "#060b18"
+        ],
+        "brightness": 76.85857787344946,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "landing",
+        "simulator",
+        "sorcery"
+      ],
+      "project_category": "landing_page"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 5575
+  },
+  {
+    "id": "513db1a2-0fcc-4643-bd43-f10d076dfa80",
+    "title": "cortex-second-brain",
+    "description": "A knowledge management system that serves as an external cognitive extension for organizing thoughts and information.",
+    "link": "https://lovable.dev/projects/513db1a2-0fcc-4643-bd43-f10d076dfa80",
+    "remixes": {
+      "count": 1438,
+      "text": "1438 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-527aff71--513db1a2-0fcc-4643-bd43-f10d076dfa80.lovable.app-1741463359696.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJpJO1uPKe-337VYj8SKTvqWLr9aBFq4PFg5lTZUqJ_yFlPrTw=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.078351",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 6178,
+        "aspect_ratio": 0.3107801877630301
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#fcfcfc",
+          "#306beb",
+          "#c7d1e5"
+        ],
+        "brightness": 241.0499547917004,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "cortex",
+        "second",
+        "brain"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 7190
+  },
+  {
+    "id": "fafe259a-ff46-45f0-812e-1c598bf4b505",
+    "title": "characterforge-imagix",
+    "description": "A character creation and visualization tool for writers, game developers, or role-playing enthusiasts.",
+    "link": "https://lovable.dev/projects/fafe259a-ff46-45f0-812e-1c598bf4b505",
+    "remixes": {
+      "count": 1695,
+      "text": "1695 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-9f7a1ab8--fafe259a-ff46-45f0-812e-1c598bf4b505.lovable.app-1740673074305.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocJpJO1uPKe-337VYj8SKTvqWLr9aBFq4PFg5lTZUqJ_yFlPrTw=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.116760",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 2230,
+        "aspect_ratio": 0.8609865470852018
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#ceaf5f",
+          "#252626",
+          "#4f79dd"
+        ],
+        "brightness": 110.23002458193199,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "characterforge",
+        "imagix"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 8475
+  },
+  {
+    "id": "aea57efd-93e1-4cb4-9dea-735a7609af4a",
+    "title": "zakicrm",
+    "description": "A customer relationship management system with streamlined features for small to medium businesses.",
+    "link": "https://lovable.dev/projects/aea57efd-93e1-4cb4-9dea-735a7609af4a",
+    "remixes": {
+      "count": 7,
+      "text": "7 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/43dea556-b340-487d-86a1-bde429985b17/id-preview-a696b7fe--aea57efd-93e1-4cb4-9dea-735a7609af4a.lovable.app-1744496533296.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocLsy_P9COTfmQoOUAQJY2MOZ86axBjRVp9kQyekk_-GybvLuh3L=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.150370",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#1a1f2c",
+          "#17363e",
+          "#192631"
+        ],
+        "brightness": 89.00457380883488,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 1,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "zakicrm"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 35
+  },
+  {
+    "id": "78e71be8-1741-4b05-8841-5c5711aa1200",
+    "title": "rome-jpem-reboot",
+    "description": "A revival or modernized version of a classical or historical project with Japanese and European influences.",
+    "link": "https://lovable.dev/projects/78e71be8-1741-4b05-8841-5c5711aa1200",
+    "remixes": {
+      "count": 165,
+      "text": "165 Remixes"
+    },
+    "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c3373e24-18be-4dcd-95a2-b0b6a844a42d/id-preview-248b20f6--78e71be8-1741-4b05-8841-5c5711aa1200.lovable.app-1744364088342.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocKMGQM4Ap80w2ojauJEdx0IOXZFes7301iwO2PiTL7mSde39vgy=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.178202",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#f2e8d6",
+          "#2e5384",
+          "#b1b4b6"
+        ],
+        "brightness": 224.9948351900077,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "rome",
+        "jpem",
+        "reboot"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 825
+  },
+  {
+    "id": "8eea59cd-6a7d-4fcc-b619-5467ab615d04",
+    "title": "opportunity-lighthouse",
+    "description": "A platform that illuminates and guides users toward career, business, or investment opportunities.",
+    "link": "https://lovable.dev/projects/8eea59cd-6a7d-4fcc-b619-5467ab615d04",
+    "remixes": {
+      "count": 1,
+      "text": "1 Remix"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-af8d2ce7--8eea59cd-6a7d-4fcc-b619-5467ab615d04.lovable.app-1743522974529.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocL0pQD1VQvKiTOgx___i_CInmSQZ_S-rRGiaBWM6gxcvLAK_w=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.218327",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1052,
+        "aspect_ratio": 1.8250950570342206
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#e4dac7",
+          "#6a4630",
+          "#f9f8f4"
+        ],
+        "brightness": 246.46874269744137,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "opportunity",
+        "lighthouse"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 5
+  },
+  {
+    "id": "ee95d51b-52bd-4ed8-a6a9-681b011ba839",
+    "title": "echoing-site-template-26",
+    "description": "A website template system with audio or voice features, being the 26th iteration in a series.",
+    "link": "https://lovable.dev/projects/ee95d51b-52bd-4ed8-a6a9-681b011ba839",
+    "remixes": {
+      "count": 9,
+      "text": "9 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-ac5fbe48--ee95d51b-52bd-4ed8-a6a9-681b011ba839.lovable.app-1743278818656.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocLx4PMYcW6ohOyMLc16x9xwdGajAL60sWzdbqzppDjkbHxVaw=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.254075",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 5825,
+        "aspect_ratio": 0.3296137339055794
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#fafafa",
+          "#292c34",
+          "#8b6d6c"
+        ],
+        "brightness": 203.12995080025036,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 4,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "echoing",
+        "site",
+        "template"
+      ],
+      "project_category": "landing_page"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 45
+  },
+  {
+    "id": "ea007ae4-bf41-4777-bc2b-32fbfcb9592b",
+    "title": "tactile-signature-tool",
+    "description": "A digital signature application with haptic feedback for a more physical and secure signing experience.",
+    "link": "https://lovable.dev/projects/ea007ae4-bf41-4777-bc2b-32fbfcb9592b",
+    "remixes": {
+      "count": 1,
+      "text": "1 Remix"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-6d44fe47--ea007ae4-bf41-4777-bc2b-32fbfcb9592b.lovable.app-1743147280359.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocI5aAFXXwtvVDhJP1AgB4JRu3mYulDEtdONlj2ub1zicz6VodgZDg=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.301323",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1258,
+        "aspect_ratio": 1.5262321144674087
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#fdfdfe",
+          "#e1e3e8",
+          "#ab9ebf"
+        ],
+        "brightness": 252.7677778881823,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "tactile",
+        "signature",
+        "tool"
+      ],
+      "project_category": "tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 5
+  },
+  {
+    "id": "32740053-d4a5-474d-90a4-a52ce5eabadc",
+    "title": "lovable-product-grove",
+    "description": "An e-commerce platform showcasing a curated collection of charming and endearing products in a garden-like interface.",
+    "link": "https://lovable.dev/projects/32740053-d4a5-474d-90a4-a52ce5eabadc",
+    "remixes": {
+      "count": 1,
+      "text": "1 Remix"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-60898bb5--32740053-d4a5-474d-90a4-a52ce5eabadc.lovable.app-1743052185360.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocK1Ll-Suod1fzTj1rUH-3iBTU4rbVzMg-5RM7sEjSsOzRNxurqi=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.338662",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#0a0a0d",
+          "#141a27",
+          "#73768b"
+        ],
+        "brightness": 79.3911676552855,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      "keywords": [
+        "lovable",
+        "product",
+        "grove"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 5
+  },
+  {
+    "id": "569a64aa-fd54-4462-a091-9529939f2136",
+    "title": "forklift-navigator",
+    "description": "An industrial navigation and management system for warehouse forklift operations and logistics.",
+    "link": "https://lovable.dev/projects/569a64aa-fd54-4462-a091-9529939f2136",
+    "remixes": {
+      "count": 896,
+      "text": "896 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-a48b709b--569a64aa-fd54-4462-a091-9529939f2136.lovable.app-1743030202944.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocIRRaZRXH_LRKli_zr9Ewt80zELqQn-e-zvkdyn1x_AkMZfA3b8=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.367150",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#f7f8f7",
+          "#3882f1",
+          "#afbda2"
+        ],
+        "brightness": 237.87074483989198,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "forklift",
+        "navigator"
+      ],
+      "project_category": "dashboard"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 4480
+  },
+  {
+    "id": "d9e9e909-200c-4b87-875b-9305d31e815d",
+    "title": "sleek-navisphere-65-90-76-19-70",
+    "description": "A modern navigation interface with a sophisticated design system identified by specific numerical parameters.",
+    "link": "https://lovable.dev/projects/d9e9e909-200c-4b87-875b-9305d31e815d",
+    "remixes": {
+      "count": 27,
+      "text": "27 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-27bd795f--d9e9e909-200c-4b87-875b-9305d31e815d.lovable.app-1743029689984.png",
+    "author_img": "",
+    "scraped_at": "2025-05-21T18:49:17.403561",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#000000",
+          "#fafafa",
+          "#cdcdcd"
+        ],
+        "brightness": 77.73848367573302,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 7,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "sleek",
+        "navisphere"
+      ],
+      "project_category": "other"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 135
+  },
+  {
+    "id": "ca2c8cb7-488c-4548-be13-782d945ee184",
+    "title": "custom-thinking-ai",
+    "description": "A personalized artificial intelligence system that adapts its thinking patterns to match user preferences.",
+    "link": "https://lovable.dev/projects/ca2c8cb7-488c-4548-be13-782d945ee184",
+    "remixes": {
+      "count": 1,
+      "text": "1 Remix"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-ddf9c712--ca2c8cb7-488c-4548-be13-782d945ee184.lovable.app-1743028925699.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocL8AN7zcT_i1XXnMobdd6czqoe9uiwK5uc9fOkSKf1jEGFEUA=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.436235",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "aspect_ratio": 1.7777777777777777
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#1c1d25",
+          "#3d4151",
+          "#887fb8"
+        ],
+        "brightness": 90.00292848186729,
+        "has_text": true
+      }
+    },
+    "text_features": {
+      "word_count": 3,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "custom",
+        "thinking"
+      ],
+      "project_category": "ai_tool"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 5
+  },
+  {
+    "id": "3dbb57c6-f5b2-4ab4-8bfb-6775b6a8847e",
+    "title": "chatiwy-connectivity",
+    "description": "A social messaging platform focusing on continuous connectivity and seamless communication between users.",
+    "link": "https://lovable.dev/projects/3dbb57c6-f5b2-4ab4-8bfb-6775b6a8847e",
+    "remixes": {
+      "count": 75,
+      "text": "75 Remixes"
+    },
+    "image_url": "https://storage.googleapis.com/gpt-engineer-screenshots/id-preview-f9474073--3dbb57c6-f5b2-4ab4-8bfb-6775b6a8847e.lovable.app-1742955143416.png",
+    "author_img": "https://lh3.googleusercontent.com/a/ACg8ocL1h_1Nhjmf2J0sM3Ty1jw4TGxOXsvu417wwvkeJejAOPGIeA=s96-c",
+    "scraped_at": "2025-05-21T18:49:17.487357",
+    "image_analysis": {
+      "dimensions": {
+        "width": 1920,
+        "height": 41,
+        "aspect_ratio": 46.829268292682926
+      },
+      "visual_attributes": {
+        "dominant_colors": [
+          "#fefefe",
+          "#afafaf",
+          "#d1d1d1"
+        ],
+        "brightness": 254.60162919207318,
+        "has_text": false
+      }
+    },
+    "text_features": {
+      "word_count": 2,
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "keywords": [
+        "chatiwy",
+        "connectivity"
+      ],
+      "project_category": "other"
+    },
+    "scraped_date": "2025-05-21",
+    "popularity_score": 375
+  }
+]
